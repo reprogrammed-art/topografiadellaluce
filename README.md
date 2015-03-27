@@ -3,3 +3,5 @@ The interface of the devices we are using or have used—from television sets an
 – two dc motors (direction of rotation, one rotation per second) controlled by an Arduino;
 – one lcd element controlled by a Processing sketch on a computer with a regular os.
 Every user can design a disc of his own. This model should be viewed as the basic element, encouraging interaction and inviting users to play with the work, exploring it and creating new scenarios. The contemporary image is no longer like a television, used as an “altar of distraction”, but an innovative, challenging creative instrument in its own right, which calls for interaction.
+
+![Alt text](http://www.reprogrammed-art.cc/upload/module_01/52/5515711a6d9f8.jpg "Optional title")
